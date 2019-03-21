@@ -11,6 +11,12 @@ Tchelinux Livramento
 
 * Introdução ao desenvolvimento Android com Kotlin
 
+Tchelinux Campus
+
+* O que é Software Livre, Sobre o Tchelinux
+
+
+
 ****
 
 #### 2018
