@@ -3,8 +3,6 @@ Aqui você encontra os slides que eu utilizo em minhas talks.
 
 
 
-****
-
 #### 2019
 
 Tchelinux Livramento
