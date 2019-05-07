@@ -7,11 +7,15 @@ Aqui você encontra os slides que eu utilizo em minhas talks.
 
 Tchelinux Livramento
 
-* Introdução ao desenvolvimento Android com Kotlin
+* Introdução ao desenvolvimento **Android** com **Kotlin**
 
 Tchelinux Campus
 
-* O que é Software Livre, Sobre o Tchelinux
+* O que é **Software Livre**, Sobre o Tchelinux
+
+SEACOMP
+
+* Introdução ao mundo dos container com **Docker**
 
 
 
@@ -21,5 +25,6 @@ Tchelinux Campus
 
 Tchelinux Bagé
 
-* Introdução ao LaTeX
-* Kotlin: Como começar
+* Introdução ao **LaTeX**
+* **Kotlin**: Como começar
+
