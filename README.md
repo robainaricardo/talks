@@ -17,6 +17,7 @@ Tchelinux Livramento
 Tchelinux Campus
 
 * O que é **Software Livre**, Sobre o Tchelinux
+* Uma breve introdução ao **Terminal Linux**
 
 SEACOMP
 
