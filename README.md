@@ -5,6 +5,16 @@ Aqui você encontra os slides que eu utilizo em minhas talks.
 
 #### 2019
 
+Tchelinux Porto Alegre
+
+* **Golang**: a sua próxima linguagem de programação favorita
+
+Tchelinux Bagé
+
+* **Golang**: a sua próxima linguagem de programação favorita
+* Introdução ao desenvolvimento **Android** com **Kotlin**
+* Dados no espaço-tempo: Trabalhando com dados georreferenciados no **MongoDB**
+
 Tchelinux Pelotas
 
 * Introdução ao desenvolvimento **Android** com **Kotlin**
